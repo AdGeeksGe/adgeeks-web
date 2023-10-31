@@ -23,8 +23,20 @@
 }
 
 @font-face {
+    font-family: 'MarkGeoCaps-Light';
+    src: url(MarkGEOCAPS-Light.otf);
+    font-display: fallback;
+}
+
+@font-face {
+    font-family: 'MarkGeo-Bold';
+    src: url(MarkGEO-Bold.otf);
+    font-display: fallback;
+}
+
+@font-face {
     font-family: 'MarkGeo-SemiBold';
-    src: url(/MarkGEO-SemiBold.otf);
+    src: url(MarkGEO-SemiBold.otf);
     font-display: fallback;
 }
 
@@ -42,6 +54,6 @@
 
 @font-face {
     font-family: 'MarkGeo-Light';
-    src: url(../fonts/MarkGEO-Light.otf);
+    src: url(MarkGEO-Light.otf);
     font-display: fallback;
 }
