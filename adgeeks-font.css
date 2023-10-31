@@ -1,1 +1,47 @@
+@font-face {
+    font-family: 'MarkGeoCaps-Bold';
+    src: url(MarkGEOCAPS-Bold.otf);
+    font-display: fallback;
+}
 
+@font-face {
+    font-family: 'MarkGeoCaps-SemiBold';
+    src: url(MarkGEOCAPS-SemiBold.otf);
+    font-display: fallback;
+}
+
+@font-face {
+    font-family: 'MarkGeoCaps-Medium';
+    src: url(MarkGEOCAPS-Medium.otf);
+    font-display: fallback;
+}
+
+@font-face {
+    font-family: 'MarkGeoCaps-Regular';
+    src: url(MarkGEOCAPS-Regular.otf);
+    font-display: fallback;
+}
+
+@font-face {
+    font-family: 'MarkGeo-SemiBold';
+    src: url(/MarkGEO-SemiBold.otf);
+    font-display: fallback;
+}
+
+@font-face {
+    font-family: 'MarkGeo-Medium';
+    src: url(MarkGEO-Medium.otf);
+    font-display: fallback;
+}
+
+@font-face {
+    font-family: 'MarkGeo-Regular';
+    src: url(MarkGEO-Regular.otf);
+    font-display: fallback;
+}
+
+@font-face {
+    font-family: 'MarkGeo-Light';
+    src: url(../fonts/MarkGEO-Light.otf);
+    font-display: fallback;
+}
