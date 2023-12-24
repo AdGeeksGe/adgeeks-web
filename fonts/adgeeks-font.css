@@ -57,3 +57,68 @@
     src: url(MarkGEO-Light.otf);
     font-display: fallback;
 }
+
+@font-face {
+    font-family: 'Mersad-Black';
+    src: url(Mersad\ Black.ttf);
+    font-display: fallback;
+}
+
+@font-face {
+    font-family: 'Mersad-Bold';
+    src: url(Mersad\ Bold.ttf);
+    font-display: fallback;
+}
+
+@font-face {
+    font-family: 'Mersad-ExtraBold';
+    src: url(Mersad\ ExtraBold.ttf);
+    font-display: fallback;
+}
+@font-face {
+    font-family: 'Mersad-ExtraLight';
+    src: url(Mersad\ ExtraLight.ttf);
+    font-display: fallback;
+}
+
+@font-face {
+    font-family: 'Mersad-Light';
+    src: url(Mersad\ Light.ttf);
+    font-display: fallback;
+}
+
+@font-face {
+    font-family: 'Mersad-Medium';
+    src: url(Mersad\ Medium.ttf);
+    font-display: fallback;
+}
+
+@font-face {
+    font-family: 'Mersad-Regular';
+    src: url(Mersad\ Regular.ttf);
+    font-display: fallback;
+}
+
+@font-face {
+    font-family: 'Mersad-SemiBold';
+    src: url(Mersad\ SemiBold.ttf);
+    font-display: fallback;
+}
+
+@font-face {
+    font-family: 'Mersad-Thin';
+    src: url(Mersad\ Thin.ttf);
+    font-display: fallback;
+}
+
+@font-face {
+    font-family: 'Degular-Bold';
+    src: url(Degular\ Bold.ttf);
+    font-display: fallback;
+}
+
+@font-face {
+    font-family: 'Degular-Italic';
+    src: url(Degular\ Italic.ttf);
+    font-display: fallback;
+}
