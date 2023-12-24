@@ -1,6 +1,7 @@
 <link rel="stylesheet" href="../fonts/adgeeks-font.css">
 <style>
-    .main img{
+    @import url('https://adgeeksge.github.io/adgeeks-web/fonts/adgeeks-font.css');
+    .logo{
         width: auto;
         height: 96px;
     }
@@ -19,24 +20,21 @@
         height: 24px;
         width: auto;
     }
-    .main{
-        display: flex;
-        gap: 16px;
-    }
-    .side2{
-        display: flex;
-        flex-direction: column;
-        align-items: flex-start;
-        justify-content: space-between;
+    th{
+        text-align: inherit;
     }
 </style>
-<div class="main">
-    <img src="logo.svg" alt="adgeeks logo">
-    <div class="side2">
-        <div class="info">
-            <h1>Nika Javakhishvili</h1>
+<table>
+    <tr>
+        <th><img src="logo.svg" alt="adgeeks logo" class="logo"></th>
+        <th><h1>Nika Javakhishvili</h1></th>
+    </tr>
+    <tr>
+        <th>
+            <img src="google partner.svg" alt="google partner badge">
+        </th>
+        <th>
             <h2>Graphic Designer</h2>
-        </div>
-        <img src="google partner.svg" alt="google partner badge">
-    </div>
-</div>
+        </th>
+    </tr>
+</table>
