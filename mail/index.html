@@ -16,25 +16,33 @@
         font-size: 21px;
         margin: 0;
     }
-    .side2 img{
+    .google-partner{
         height: 24px;
         width: auto;
     }
     th{
         text-align: inherit;
     }
+    div.content{
+        margin-left: 16px;
+        display: flex;
+        flex-direction: column;
+        align-items: flex-start;
+        justify-content: space-between;
+        height: 96px;
+    }
 </style>
 <table>
     <tr>
         <th><img src="logo.svg" alt="adgeeks logo" class="logo"></th>
-        <th><h1>Nika Javakhishvili</h1></th>
-    </tr>
-    <tr>
         <th>
-            <img src="google partner.svg" alt="google partner badge">
-        </th>
-        <th>
-            <h2>Graphic Designer</h2>
+        <div class="content">
+            <div class="txt">
+                <h1>Nika Javakhishvili</h1>
+                <h2>Graphic Designer</h2>
+            </div>
+            <img src="google partner.svg" alt="google partner badge" class="google-partner">
+        </div>
         </th>
     </tr>
 </table>
